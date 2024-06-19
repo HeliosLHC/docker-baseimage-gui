@@ -5,7 +5,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  DOCKER_IMAGE_NAME: jlesage/baseimage-gui
+  DOCKER_IMAGE_NAME: terbiyum/baseimage-gui
 
 on:
   push:
